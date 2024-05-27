@@ -1,3 +1,5 @@
+Based on TI ADC Example
+
 PRU_ADC
 -------
 
